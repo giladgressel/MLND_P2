@@ -1,4 +1,4 @@
-## Building a Student Intervention System
+I## Building a Student Intervention System
 
 In this project I build a classification system which will predict whether or not a given student is failing school based on a number of features.  There are two files to look at:
 
